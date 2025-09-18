@@ -18,16 +18,16 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽",
+            text="✙ ʌᴅᴅ ϻє ɪη ʏσυʀ ɢʀσυᴘ ✙",
             url=f"https://t.me/EditGuardian_xdBot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/riteshcoder"),
-        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/riteshcoder"),
+        InlineKeyboardButton(text="⌯ ᴏᴡɴᴇꝛ ⌯", url=f"https://t.me/+G-kGeNJKv_YxNTg9"),
+        InlineKeyboardButton(text="⌯ sᴏᴜꝛᴄᴇ ⌯", url=f"https://t.me/kriti_bot_update"),
     ],    
     [
-        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/riteshcoder"),
+        InlineKeyboardButton(text="⌯ ᴏᴡɴᴇꝛ ⌯", url=f"https://t.me/III_BADNAM_BABY_lll"),
     ],
     
 ]
