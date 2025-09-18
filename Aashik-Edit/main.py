@@ -283,7 +283,7 @@ def help(update: Update, context: CallbackContext):
 For more details, contact: <a href="tg://user?id={OWNER_ID}">Owner</a>
 """
 
-    buttons = [[InlineKeyboardButton("🔙 Back", callback_data="start_back")]]
+    buttons = [[InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data="start_back")]]
     
     update.message.reply_text(
         help_text, 
