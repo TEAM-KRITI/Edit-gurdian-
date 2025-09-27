@@ -23,8 +23,8 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="⌯ ᴏᴡɴᴇꝛ ⌯", url=f"https://t.me/+G-kGeNJKv_YxNTg9"),
-        InlineKeyboardButton(text="⌯ sᴏᴜꝛᴄᴇ ⌯", url=f"https://t.me/kriti_bot_update"),
+        InlineKeyboardButton(text="⌯ sᴜᴘᴘᴏʀᴛ ⌯", url=f"https://t.me/KRITI_SUPPORT_GROUP"),
+        InlineKeyboardButton(text="⌯ ᴜᴘᴅᴀᴛᴇ ⌯", url=f"https://t.me/kriti_bot_update"),
     ],    
     [
         InlineKeyboardButton(text="⌯ ᴏᴡɴᴇꝛ ⌯", url=f"https://t.me/III_BADNAM_BABY_lll"),
