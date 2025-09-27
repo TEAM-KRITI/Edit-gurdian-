@@ -19,7 +19,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="✙ ʌᴅᴅ ϻє ɪη ʏσυʀ ɢʀσυᴘ ✙",
-            url=f"https://t.me/EditGuardian_xdBot?startgroup=true",
+            url=f"https://t.me/EditGuardiantpBot?startgroup=true",
         ),
     ],
     [
@@ -44,4 +44,4 @@ IMG = [
 "https://telegra.ph/file/fbfa4262e467652e75d83.jpg",
 "https://telegra.ph/file/865ce3676d535ec83dce9.jpg",
 ]
-PM_START_IMG = "https://files.catbox.moe/ifjtm3.jpg"
+PM_START_IMG = "https://files.catbox.moe/kv97fs.jpg"
