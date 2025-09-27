@@ -9,5 +9,5 @@ SUDO_ID = list(map(int, os.environ.get("SUDO_ID", "").split()))
 MONGO_URI = os.environ.get("MONGO_URI")
 DB_NAME = os.environ.get("DB_NAME")
 LOGGER = os.environ.get("LOGGER", "True") == "True"
-BOT_NAME = os.environ.get("BOT_NAME", "Edit Guardian")
+BOT_NAME = os.environ.get("BOT_NAME", "EditGuardiantpBot")
 SUPPORT_ID = int(os.environ.get("SUPPORT_ID"))
